@@ -11,6 +11,6 @@ IDE : Eclipse
 MVC2 패턴으로 진행
 
 작품소개 :\
-ONEFLUX라는 드론 판매 업체로 부터 프로젝트 제작 요청을 받았습니다. 해당 업체에서 요구했던 기능은 다국어 기능과 이메일 기능입니다. 구현은 JAVA, SPRINGBOOT, MYSQL, JQuery, Javascriipt로 진행했습니다. 
+ONEFLUX라는 드론 판매 업체로 부터 프로젝트 제작 요청을 받았습니다. 해당 업체에서 요구했던 기능은 다국어 기능과 이메일 기능입니다. 구현은 JAVA, SPRINGBOOT, MYSQL, JQuery, Javascriipt로 진행했습니다.
 \
-\ps. 처음에 React와 MySQL, Springboot로 게시판을 만들었다가 해당 업체에서 요구한 기능보다 너무 넣었다고 뺐습니다. 
+ps. 처음에 React와 MySQL, Springboot로 게시판을 만들었다가 해당 업체에서 요구한 기능보다 너무 넣었다고 뺐습니다. 
