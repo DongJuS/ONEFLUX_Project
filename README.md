@@ -7,7 +7,7 @@
 DBMS : MySQL\
 Repository : Github, Sourcetree\
 IDE : Eclipse\
-본인 구현 기능 : 다국어 기능, 이메일 구현\
+본인 업무 : 기획, 다국어 기능, 이메일 구현\
 MVC2 패턴으로 진행\
 \
 작품소개 :\
